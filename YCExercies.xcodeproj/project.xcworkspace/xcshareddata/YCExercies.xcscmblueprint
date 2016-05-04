@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CDAF82078CFA92E3E9C008B7CE6D0EAB3562479C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE" : 0,
+    "CDAF82078CFA92E3E9C008B7CE6D0EAB3562479C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F0D9716-9AE7-44CD-9D04-3301B77DA242",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE" : "",
+    "CDAF82078CFA92E3E9C008B7CE6D0EAB3562479C" : "YCErciseDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YCExercies",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YCExercies.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gaoyanbin1314\/exercise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gaoyanbin1314\/YCErciseDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CDAF82078CFA92E3E9C008B7CE6D0EAB3562479C"
+    }
+  ]
+}

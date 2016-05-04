@@ -1,0 +1,15 @@
+//
+//  YCPrefixHeader.pch
+//  YCExercies
+//
+//  Created by 高艳彬 on 16/3/9.
+//  Copyright © 2016年 gaoyanbin. All rights reserved.
+//
+
+#ifndef YCPrefixHeader_pch
+#define YCPrefixHeader_pch
+
+#import "YCDefine.h"
+#import "UIView+YCViewAdditions.h"
+
+#endif /* YCPrefixHeader_pch */
